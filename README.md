@@ -16,9 +16,9 @@ My whole life is a lie :confounded: <br />
 ## Installation
 - **First, install i3 of course** <br />
 `sudo apt-get install i3` <br />
-It will give You i3-wm, dunst, i3lock, i3status, and suckless-tools.
-If i3-wm, dunst, i3lock, i3status, and suckless-tools are not installed automatically, just install them manually. <br />
-`sudo apt-get install i3-wm dunst i3lock i3status suckless-tools` <br />
+It will give You i3-wm, dunst, i3lock, i3status, flameshot and suckless-tools.
+If i3-wm, dunst, i3lock, i3status, flameshot and suckless-tools are not installed automatically, just install them manually. <br />
+`sudo apt-get install i3-wm dunst i3lock i3status flameshot suckless-tools` <br />
 
 - **Then install some additional packages to make your desktop enjoyable** <br />
 `sudo apt-get install compton hsetroot rxvt-unicode xsel rofi fonts-noto fonts-mplus xsettingsd lxappearance scrot viewnior`
