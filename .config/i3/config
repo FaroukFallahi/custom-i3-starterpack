@@ -195,6 +195,7 @@ mode "resize" {
 
 # panel
 bar {
+        font pango:Source Sans Pro, icomoon 8
 	position top
         colors {
         background #2f343f
