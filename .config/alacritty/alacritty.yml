@@ -1,0 +1,51 @@
+colors:
+  # Default colors
+  primary:
+    background: '0x2f343f'
+    foreground: '0xd8dee8'
+
+  # Normal colors
+  normal:
+    black:   '0x4b5262'
+    red:     '0xbf616a'
+    green:   '0xa3be8c'
+    yellow:  '0xebcb8b'
+    blue:    '0x81a1c1'
+    magenta: '0xb48ead'
+    cyan:    '0x89d0ba'
+    white:   '0xe5e9f0'
+
+  # Bright colors
+  bright:
+    black:   '0x434a5a'
+    red:     '0xb3555e'
+    green:   '0x93ae7c'
+    yellow:  '0xdbbb7b'
+    blue:    '0x7191b1'
+    magenta: '0xa6809f'
+    cyan:    '0x7dbba8'
+    white:   '0xd1d5dc'
+font:
+  size: 9
+  normal:
+    family: ubuntu mono
+    style: Regular
+
+  bold:
+    family: ubuntu mono
+    style: Bold
+
+  italic:
+    family: ubuntu mono
+    style: Italic
+
+  bold_italic:
+    family: ubuntu mono
+    style: Bold Italic
+  
+window:
+  padding:
+   x: 20
+   y: 30
+
+background_opacity: 0.9
