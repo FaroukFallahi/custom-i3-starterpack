@@ -23,6 +23,14 @@ If i3-wm, dunst, i3lock, i3status, flameshot and suckless-tools are not installe
 - **Then install some additional packages to make your desktop enjoyable** <br />
 `sudo apt-get install compton hsetroot rxvt-unicode xsel rofi fonts-noto fonts-mplus xsettingsd lxappearance scrot viewnior`
 
+- **Installing oh-my-zsh** <br>
+`sudo apt-get install -y zsh && sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+
+- **Extra from snap 😬** <br>
+  - `sudo snap install brave`
+  - `sudo snap install alacritty --classic`
+  - `sudo snap install code --classic`
+  
 ## Explanations of Additional Packages
 - Compton is a compositor to provide some desktop effects like shadow, transparency, fade, and transiton. 
 - Hsetroot is a wallpaper handler. i3 has no wallpaper handler by default.
