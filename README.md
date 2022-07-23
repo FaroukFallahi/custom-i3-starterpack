@@ -13,12 +13,15 @@ And do You know? Airblader the i3-gaps developer himself doesn't use gaps!
 My whole life is a lie :confounded: <br />
 
 
-## Installation
+## Installation  
+- **Extra ** <br>
+  `sudo apt-get install axel curl wget git`
+
 - **First, install i3 of course** <br />
 `sudo apt-get install i3` <br />
 It will give You i3-wm, dunst, i3lock, i3status, flameshot and suckless-tools.
 If i3-wm, dunst, i3lock, i3status, flameshot and suckless-tools are not installed automatically, just install them manually. <br />
-`sudo apt-get install i3-wm dunst i3lock i3status flameshot suckless-tools axel curl wget` <br />
+`sudo apt-get install i3-wm dunst i3lock i3status flameshot suckless-tools` <br />
 
 - **Then install some additional packages to make your desktop enjoyable** <br />
 `sudo apt-get install compton hsetroot rxvt-unicode xsel rofi fonts-noto fonts-mplus xsettingsd lxappearance scrot viewnior`
@@ -30,7 +33,7 @@ If i3-wm, dunst, i3lock, i3status, flameshot and suckless-tools are not installe
   - `sudo snap install brave`
   - `sudo snap install alacritty --classic`
   - `sudo snap install code --classic`
-  
+
 ## Explanations of Additional Packages
 - Compton is a compositor to provide some desktop effects like shadow, transparency, fade, and transiton. 
 - Hsetroot is a wallpaper handler. i3 has no wallpaper handler by default.
