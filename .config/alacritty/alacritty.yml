@@ -47,5 +47,4 @@ window:
   padding:
    x: 20
    y: 30
-
-background_opacity: 0.9
+  opacity: 0.9
