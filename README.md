@@ -31,8 +31,10 @@ If i3-wm, dunst, i3lock, i3status, flameshot and suckless-tools are not installe
 
 - **Extra from snap 😬** <br>
   - `sudo snap install brave`
-  - `sudo snap install alacritty --classic`
   - `sudo snap install code --classic`
+
+- **Install Alacritty** <br>
+`sudo add-apt-repository ppa:aslatter/ppa && sudo apt update && sudo apt install alacritty`
 
 ## Explanations of Additional Packages
 - Compton is a compositor to provide some desktop effects like shadow, transparency, fade, and transiton. 
